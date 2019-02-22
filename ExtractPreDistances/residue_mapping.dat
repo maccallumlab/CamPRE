@@ -1,0 +1,28 @@
+# Restype   NMR Index   Meld Index    Meld Index+1  Simulated   Talos+
+#                                                   PDB Index
+ALA         1           0             1                         XXX
+ASP         2           1             2                         ASP
+GLN         3           2             3                         GLN
+LEU         4           3             4                         LEU
+THR         5           4             5             1           THR
+...
+...
+THR         146         145           146           142         THR
+ALA         147         146           147                       ALA
+LYS         148         147           148                       LYS
+CYS         149         148           149                       XXX
+
+CA                      149           150           143
+CA                      150           151           144
+CA                      151           152           145
+CA                      152           153           146
+
+ALA         201         153           154                       ALA
+ARG         202         154           155           147         ARG
+ARG         203         155           156           148         ARG
+..
+..
+LEU         218         171           172           163         LEU
+SER         219         172           173           164         SER
+SER         220         173           174           165         XXX
+

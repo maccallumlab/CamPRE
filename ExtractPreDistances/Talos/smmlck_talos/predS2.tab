@@ -1,0 +1,27 @@
+REMARK  Predicted order parameter (S2) from backbone chemical shifts for talos_shifts.tbl
+REMARK    from David Wishart's RCI method, JACS, 127(43), 14970-14971
+
+VARS RESID RESNAME CS_CNT CS_CNT_R2 S2 
+FORMAT %4d %1s %2d %2d %8.3f 
+
+    1 A  4  1    0.875
+    2 R  7  3    0.887
+    3 R  9  3    0.904
+    4 K  9  3    0.920
+    5 W  9  3    0.925
+    6 Q  9  3    0.930
+    7 K  9  3    0.927
+    8 T  9  3    0.928
+    9 G  9  3    0.924
+   10 H  9  3    0.931
+   11 A  9  3    0.931
+   12 V  9  3    0.933
+   13 R  9  3    0.929
+   14 A  9  3    0.921
+   15 I  9  3    0.916
+   16 G  9  3    0.898
+   17 R  9  3    0.896
+   18 K  9  3    0.882
+   19 L  8  3    0.865
+   20 S  5  2    0.848
+   21 S  2  0    0.828

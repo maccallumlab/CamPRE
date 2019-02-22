@@ -1,0 +1,26 @@
+!NT
+assign ( resid  20 and name  OD2 ) ( resid 179 and name   CA ) 3.00 3.00 0.00
+assign ( resid  22 and name  OD1 ) ( resid 179 and name   CA ) 3.00 3.00 0.00
+assign ( resid  24 and name  OD2 ) ( resid 179 and name   CA ) 3.00 3.00 0.00
+assign ( resid  26 and name    O ) ( resid 179 and name   CA ) 3.00 3.00 0.00
+assign ( resid  31 and name  OE1 ) ( resid 179 and name   CA ) 3.00 3.00 0.00
+assign ( resid  31 and name  OE2 ) ( resid 179 and name   CA ) 3.00 3.00 0.00
+assign ( resid  56 and name  OD2 ) ( resid 192 and name   CA ) 3.00 3.00 0.00
+assign ( resid  58 and name  OD2 ) ( resid 192 and name   CA ) 3.00 3.00 0.00
+assign ( resid  60 and name  OD1 ) ( resid 192 and name   CA ) 3.00 3.00 0.00
+assign ( resid  62 and name    O ) ( resid 192 and name   CA ) 3.00 3.00 0.00
+assign ( resid  67 and name  OE1 ) ( resid 192 and name   CA ) 3.00 3.00 0.00
+assign ( resid  67 and name  OE2 ) ( resid 192 and name   CA ) 3.00 3.00 0.00
+!CT
+assign ( resid  93 and name  OD2 ) ( resid 221 and name   CA ) 3.00 3.00 0.00
+assign ( resid  95 and name  OD2 ) ( resid 221 and name   CA ) 3.00 3.00 0.00
+assign ( resid  97 and name  OD1 ) ( resid 221 and name   CA ) 3.00 3.00 0.00
+assign ( resid  99 and name    O ) ( resid 221 and name   CA ) 3.00 3.00 0.00
+assign ( resid 104 and name  OE1 ) ( resid 221 and name   CA ) 3.00 3.00 0.00
+assign ( resid 104 and name  OE2 ) ( resid 221 and name   CA ) 3.00 3.00 0.00
+assign ( resid 129 and name  OD1 ) ( resid 234 and name   CA ) 3.00 3.00 0.00
+assign ( resid 131 and name  OD2 ) ( resid 234 and name   CA ) 3.00 3.00 0.00
+assign ( resid 133 and name  OD2 ) ( resid 234 and name   CA ) 3.00 3.00 0.00
+assign ( resid 135 and name    O ) ( resid 234 and name   CA ) 3.00 3.00 0.00
+assign ( resid 140 and name  OE1 ) ( resid 234 and name   CA ) 3.00 3.00 0.00
+assign ( resid 140 and name  OE2 ) ( resid 234 and name   CA ) 3.00 3.00 0.00
